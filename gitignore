@@ -1,0 +1,13 @@
+# Credenciais: nunca versionar
+.env
+*.env
+!.env.exemplo
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ADK
+.adk/
